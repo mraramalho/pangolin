@@ -1,8 +1,6 @@
 # PanGolin 🐾
 
-![image](.\img\pangolim.jpg)
-
-> PanGolin – Manipulação de dados em Go, com a leveza do pandas e a força de um pangolim. 🐾
+![image](.\img\mascote.png)
 
 ## Objetivo
 
