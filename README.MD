@@ -1,6 +1,6 @@
 # PanGolin 🐾
 
-![image](.\img\mascote.png)
+![image](./img/mascote.png)
 
 ## Objetivo
 
